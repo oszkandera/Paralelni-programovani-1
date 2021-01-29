@@ -1,0 +1,16 @@
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.exe
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.deps.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.runtimeconfig.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.runtimeconfig.dev.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLifeConsole.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.csproj.CopyComplete
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLifeConsole\obj\Debug\netcoreapp3.1\GameOfLifeConsole.genruntimeconfig.cache

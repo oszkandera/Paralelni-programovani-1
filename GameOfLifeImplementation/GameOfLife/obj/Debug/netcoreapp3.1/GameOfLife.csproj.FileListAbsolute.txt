@@ -1,0 +1,9 @@
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\Implementace\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb

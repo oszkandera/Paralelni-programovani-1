@@ -1,0 +1,13 @@
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.exe
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.deps.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.runtimeconfig.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.runtimeconfig.dev.json
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\bin\Debug\netcoreapp3.1\PageRank.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.csprojAssemblyReference.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.AssemblyInfoInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.AssemblyInfo.cs
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.csproj.CoreCompileInputs.cache
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.dll
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.pdb
+C:\Users\Ondra\Desktop\VSB\ING\PA1\PageRank\PageRank\obj\Debug\netcoreapp3.1\PageRank.genruntimeconfig.cache

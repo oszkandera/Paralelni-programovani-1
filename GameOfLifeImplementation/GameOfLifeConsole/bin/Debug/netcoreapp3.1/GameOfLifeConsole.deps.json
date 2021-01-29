@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GameOfLifeConsole/1.0.0": {
+        "dependencies": {
+          "GameOfLife": "1.0.0"
+        },
+        "runtime": {
+          "GameOfLifeConsole.dll": {}
+        }
+      },
+      "GameOfLife/1.0.0": {
+        "runtime": {
+          "GameOfLife.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLifeConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameOfLife/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
